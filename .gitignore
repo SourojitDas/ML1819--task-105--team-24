@@ -1,0 +1,8 @@
+
+.DS_Store
+*.zip
+*.jpg
+Checkout Codes/cNN/.ipynb_checkpoints/cNNCatAndDogs-checkpoint.ipynb
+Checkout Codes/cNN/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Checkout Codes/cNN/submission_file.csv
+Checkout Codes/cNN/train_data.npy
